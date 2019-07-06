@@ -34,7 +34,7 @@
 
 ## Live Demo
 
-* [Progressive Ecommerce Store](https://progressive-web-app-672cf.firebaseapp.com/)
+* [Progressive Ecommerce Store](https://mycart-dd161.firebaseapp.com/)
 
      * Hosted on firebase
         
@@ -72,7 +72,7 @@
      
      ```
      
-* Select options for project configuration (detailed instructions to be updated soon)
+* Select options for project configuration (like hosting and database)
 * To deploy files on server
      
      ```bash
