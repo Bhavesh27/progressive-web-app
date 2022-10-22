@@ -10,6 +10,7 @@ import SideMenu from './views/SideMenu';
 
 import './App.css';
 
+// The entry point to the application
 class App extends Component {
   //intialization
   constructor(props) {
